@@ -13,7 +13,7 @@ header{
     overflow: hidden;
     background:linear-gradient(to right,rgba(236, 14, 14, 0.493),
                                         rgba(138, 22, 233, 0.993)),
-                                        url(guitar.jpg);
+                                        url(images/guitar.jpg);
     height:80vh;
     width:100%;
     top:-10px;
